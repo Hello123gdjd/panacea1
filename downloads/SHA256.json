@@ -1,10 +1,10 @@
 {
   "CircuitFD-Windows-x64.zip": {
-    "size_bytes": 40270083,
-    "sha256": "92931bcb334b4eb0c46bce7a001af85d33e6f762f542d66e62b3d01bf4a97a25"
+    "size_bytes": 43033225,
+    "sha256": "f2f4bf97871fdbf22cf369495bc9aea1a3adbe0a83566f82754776ad60457b3c"
   },
   "CircuitFD-Source.zip": {
-    "size_bytes": 4307727,
-    "sha256": "a024aa3f1f996a5d6419199d71bd3d8ba8874111d163605ab036b2f41c15b6a1"
+    "size_bytes": 8232448,
+    "sha256": "3d42e4da40384bf63a83912bf7a9deb22ed10fc640af2d1798f4d6cb61e2b9a7"
   }
 }
